@@ -193,7 +193,7 @@ Este projeto foi desenvolvido como trabalho acadêmico para aprendizado de Progr
 
 ## 👥 Integrantes
 
-[Adicione os nomes dos integrantes do grupo aqui]
+Luiz André dos Santos Filho
 
 ---
 
